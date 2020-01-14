@@ -1,0 +1,26 @@
+:method: GET
+:scheme: https
+:authority: www.youtube.com
+:path: /results?search_query=pokemon+theme&pbj=1
+Referer: https://www.youtube.com/results?search_query=pokemon+theme
+Cookie: ST-5ceaql=oq=pokemon%20theme&gs_l=youtube.3..0i71k1l7.0.0.3.6791.0.0.0.0.0.0.0.0..0.0.ytrl_te%2Cersl%3Dtrue%2Cmrfs%3Dtrue%2Cdrsl%3Dtrue%2Crac%3Dtrue%2Ceap%3Dtrue%2Cmlrt%3D1%2Crlmn%3Dhdrm_PWAMatch_20191119_ast_proto-recordio...0...1ac..64.youtube..0.0.0....0.GX1IvjKpSpA&feature=web-masthead-search&itct=CBoQ7VAiEwiYtMHawYDnAhXEMbIKHU0wDQc%3D&csn=71kcXvefIpKPyAW5uaSwDw; SIDCC=AN0-TYu9zzxk8jtFoOuvqNqrc7JllwU0vhj2_8q5rmpJsrCRAe8vzL64v2s6twCAEtDgi8__BA; YSC=OIIffaItBrQ; VISITOR_INFO1_LIVE=QLY3TGutleE; SID=WAe8hf02ZtGGq3hhUQP4CFZH_I5jAITNKM_bGh0TsseSYTZsBojNiEKr3UUluOW5tuqtMQ.; __Secure-3PAPISID=MJLuWcx0MCuajo5Z/AOOsrKvjhuKvx5Xrk; __Secure-3PSID=WAe8hf02ZtGGq3hhUQP4CFZH_I5jAITNKM_bGh0TsseSYTZsrcZrkrWNhmJirm5-gBHoTA.; __Secure-APISID=VP5HhGBCLXBWtF5c/AZhLzTo-TSf9KRCxT; __Secure-HSID=AghgTQZIUDeg4Rs5Q; __Secure-SSID=AaiPiM2MPeucNKFaZ; APISID=VP5HhGBCLXBWtF5c/AZhLzTo-TSf9KRCxT; CONSENT=YES+FI.en+V8; HSID=AghgTQZIUDeg4Rs5Q; SAPISID=MJLuWcx0MCuajo5Z/AOOsrKvjhuKvx5Xrk; SSID=AaiPiM2MPeucNKFaZ; LOGIN_INFO=AFmmF2swRAIgDEBNR8hEvaFixNY4ay3FstPduJPaJibLjXlR8BOU220CIGGO9_SbcnsX6ilWn-YEh8Is9APgonxL6cEUXHAAZtaf:QUQ3MjNmeE9RQmxEa2xyaExhcGI5ZV9SclBuTFRxVTFCQngyVlVBUDBRZ2JPWHdoazltWVpfd0kwTlFLbEJkZW9fckhOczlQOFJGMk9WZjV4RGFUNTJvSFMycDZtSDJLMFo0WW1fSVhGc19PU19Pc1RCLWJ6Q2E3emZURElHcHp2dTZUYzJ0OE5yVmpna05jUWxPak1SeE8tb1VjY28zQ2l1ODlUT2xWS3RvRjNZdWZ0dG1nMGFv; PREF=al=en-GB&gl=GB&f1=50000000&f5=30
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15
+Host: www.youtube.com
+Connection: keep-alive
+Accept-Language: en-us
+Accept: */*
+Accept-Encoding: gzip, deflate
+X-SPF-Referer: https://www.youtube.com/results?search_query=pokemon+theme
+X-YouTube-Ad-Signals: dt=1578892472579&flash=0&frm&u_tz=120&u_his=3&u_java=true&u_h=900&u_w=1440&u_ah=877&u_aw=1440&u_cd=24&u_nplug=1&u_nmime=3&bc=31&bih=156&biw=1440&brdim=0%2C23%2C0%2C23%2C1440%2C23%2C1440%2C877%2C1440%2C156&vis=1&wgl=true&ca_type=image
+X-SPF-Previous: https://www.youtube.com/results?search_query=pokemon+theme
+X-YouTube-Utc-Offset: 120
+X-Youtube-Identity-Token: QUFFLUhqbUc2WHBCTWJ5R0ZQN2N0TlA5bjdfSU5OeTlZQXw=
+X-YouTube-Variants-Checksum: f56a75399a585239a1cf1f5af58de5e0
+X-YouTube-Client-Name: 1
+X-YouTube-Time-Zone: Europe/Helsinki
+X-YouTube-Device: cos=Macintosh&cbrver=13.0.4&cosver=10_13_6&cbr=Safari
+X-YouTube-Page-CL: 289186172
+X-YouTube-STS: 18272
+X-YouTube-Client-Version: 2.20200108.07.03
+X-YouTube-Page-Label: youtube.ytfe.desktop_20200107_7_RC3
+

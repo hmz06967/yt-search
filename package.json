@@ -35,6 +35,7 @@
     "cheerio": "~0.22.0",
     "dasu": "~0.2.2",
     "human-time": "0.0.2",
+    "jsonpath": "~1.0.2",
     "minimist": "~1.2.0",
     "node-fzf": "~0.4.5"
   },

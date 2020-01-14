@@ -1,0 +1,17 @@
+:status: 200
+Content-Type: application/json; charset=UTF-8
+Content-Disposition: attachment
+Set-Cookie: ST-5ceaql=; path=/; domain=.youtube.com; expires=Thu, 01-Jan-1970 00:00:00 GMT, SIDCC=AN0-TYsaBV5x5UzM-oXfmQlHjshfGMRq11D8RJjTn6tAKR1SBms3eixVcLRJ8lggiuqz1Z_Gbg; expires=Sun, 12-Apr-2020 11:52:22 GMT; path=/; domain=.youtube.com; priority=high
+Content-Encoding: br
+X-XSS-Protection: 0
+Expires: Tue, 27 Apr 1971 19:44:06 GMT
+Cache-Control: no-cache
+Date: Mon, 13 Jan 2020 11:52:22 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+alt-svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
+Server: YouTube Frontend Proxy
+x-spf-response-type: multipart
+Strict-Transport-Security: max-age=31536000
+
