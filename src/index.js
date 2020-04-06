@@ -884,7 +884,36 @@ function parseVideoBody ( responseText, callback )
   const $ = _cheerio.load( responseText )
 
   const ctx = $( '#content' )
-
+  const r = ctx;
+  const U = _url;
+											var z = r(".content-wrapper", ctx);
+											//console.log(z.length);
+											
+											for (var relatedVideo = [], o = 0; o < z.length; o++) {
+												var l = z[o],
+												u = r("a", l),
+												t = r("span.title", l).text().trim(),
+												d = r("span.accessible-description", l).text(),
+												a = u.attr("href"),
+												f = U.parse(a.split("?", 2)[1]).v,
+												w = r("span.attribution", l).text().trim(),
+												a = r("span.view-count", l).text(),
+												p = Number(a.split(" views")[0].split(",").join("")),
+												d = d.match(/- Duration: (.*)./)[1],
+												g = d.split(":"),
+												j = (g.length ==3 ? ((Number(g[0])*60*60)+(Number(g[1])*60)+Number(g[2])) : (g.length==2 ? ((Number(g[0])*60)+Number(g[1])) : 0));		
+												relatedVideo.push({
+													title: t,
+													videoId: f,
+													seconds: j,
+													timestamp: d,
+													views: p,
+													author: {
+														name: w
+													}
+																
+												});
+											}
   const videoId = $('meta[itemprop=videoId]', ctx ).attr( 'content' )
 
   if ( !videoId ) {
@@ -993,7 +1022,8 @@ function parseVideoBody ( responseText, callback )
       channelId: channelId,
       channelName: channelName,
       channelUrl: channelUrl
-    }
+    },
+    relatedVideo: relatedVideo
   }
 
   callback( null, video )
